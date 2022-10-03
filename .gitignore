@@ -13,3 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
+YOUR_APP_MODULE_NAME/src/main/res/values/developer-config.xml
